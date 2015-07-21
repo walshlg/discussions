@@ -1,0 +1,1 @@
+small error but it caught me: in the array-filtering module the example uses the array named number but we are asked to name our array numbers (plural).
